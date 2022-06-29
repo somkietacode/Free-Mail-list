@@ -1,5 +1,5 @@
 # The free mail list
-
+![mail_list](switzanex-mail-list.png)
 Good luck
 
 ## Buy Me A Coffe
